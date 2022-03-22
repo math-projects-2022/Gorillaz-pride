@@ -9,7 +9,7 @@ workbook = xlsxwriter.Workbook('отчет.xlsx')
 worksheet = workbook.add_worksheet('Данные')
 worksheet2 = workbook.add_worksheet('Графики')
 
-data = np.loadtxt("D:/VisualStudio/Progect/mathanalyze/integral/data.tsv", delimiter='\t')
+data = np.loadtxt("data.tsv", delimiter='\t')
 
 # Some data we want to write to the worksheet.
 
