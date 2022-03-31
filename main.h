@@ -1,8 +1,8 @@
 #pragma once
 
-void trapezoidalIntegral(double, double, double, double, double(*)(double), long double[]);
-void centralrectanglesIntegral(double, double, double, double, double(*)(double), long double[]);
-void SimpsonIntegral(double, double, double, double, double(*)(double), long double[]);
+long double trapezoidalIntegral(double, double, double, double, double(*)(double));
+long double centralrectanglesIntegral(double, double, double, double, double(*)(double), ofstream&);
+long double SimpsonIntegral(double, double, double, double, double(*)(double));
 
 double function_0(double);
 
