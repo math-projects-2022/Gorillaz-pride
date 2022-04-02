@@ -132,7 +132,9 @@ int main() {
 	start = clock();
 	for (int i = 0; i < f_num; i++) {
 
-		
+		write_file << trapezoidalIntegral(a, b, h, n, func[i]) << '\t';
+		write_file << centralrectanglesIntegral(a, b, h, n, func[i], write_integral) << '\t';
+		write_file << SimpsonIntegral(a, b, h, n, func[i]) << '\n';
 		
 	}
 
