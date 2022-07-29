@@ -50,7 +50,7 @@
 
 ![демонстрация работы](https://user-images.githubusercontent.com/39415744/181803964-fd7d49ba-26d5-4ded-81c6-c9218dc85438.gif)
 
-* Демонстрация зависимости погрешностей от изменения точности
+# Демонстрация зависимости погрешностей от изменения точности
 
 https://user-images.githubusercontent.com/39415744/181811897-327b1359-98f3-4a4b-93d7-eb0685f0ed82.mp4
 
@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/39415744/181811897-327b1359-98f3-4a4b-
 
 # Выполнили
 
-   * [Конопченко Л.Б](https://github.com/leonrew) | Работа с кодом (C++ CLR)
+   * [Конопченко Л.Б](https://github.com/leonrew) | Работа с кодом (C++ CLR) | Документация проекта
    * [Рау М.А](https://github.com/R3MSKy) | Документация проекта
   
 
