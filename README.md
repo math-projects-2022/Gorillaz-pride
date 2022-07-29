@@ -36,14 +36,12 @@
 # Графики
 ### Данные графики построены по интегралам в границах от -5 до 5.
 
-![image](https://user-images.githubusercontent.com/39415744/161296568-c15814b3-b9cf-479b-88f2-ec4474521422.png)
-![image](https://user-images.githubusercontent.com/39415744/161297034-0159c16f-cda9-4c7c-9dd2-8e49c48d2398.png)
-![image](https://user-images.githubusercontent.com/39415744/161297057-68975866-36bd-4884-95c0-38502cb42112.png)
-![image](https://user-images.githubusercontent.com/39415744/161297071-ad7e62ea-4527-4fc2-b3ea-af1a7cce9e97.png)
-![image](https://user-images.githubusercontent.com/39415744/161297091-07b45bdd-4ccf-4d65-bd96-e9904072f1df.png)
-![image](https://user-images.githubusercontent.com/39415744/161297111-f1bab15f-bf4b-41a4-83cd-27a48b66d757.png)
-![image](https://user-images.githubusercontent.com/39415744/161297122-0b0f413a-23ae-4141-9263-abb0c3db52c7.png)
-![image](https://user-images.githubusercontent.com/39415744/161297135-a27cf53c-327a-4989-b3e5-434193881949.png)
+![демонстрация работы](https://user-images.githubusercontent.com/39415744/181803964-fd7d49ba-26d5-4ded-81c6-c9218dc85438.gif)
+
+
+
+https://user-images.githubusercontent.com/39415744/181803987-ba9f7cc2-ea8c-4b9f-9386-9c9f327e0a19.mp4
+
 
  
  
