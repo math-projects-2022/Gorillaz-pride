@@ -29,7 +29,10 @@
 	*	y=(x+2)³
 
 4.	Оцениваем погрешности для двух первых методов по формулам:
-	*	![image](https://user-images.githubusercontent.com/39415744/181807716-fc73b547-ccd8-436b-942a-b9b0a437d9d9.png)
+	![image](https://user-images.githubusercontent.com/39415744/181807716-fc73b547-ccd8-436b-942a-b9b0a437d9d9.png)
+	
+	![image](https://user-images.githubusercontent.com/39415744/181807945-b301776e-25e6-4ef9-a203-8982ec287702.png)
+
 
 
 	
