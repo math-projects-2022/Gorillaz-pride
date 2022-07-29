@@ -40,7 +40,7 @@
 
 
 
-https://user-images.githubusercontent.com/39415744/181803987-ba9f7cc2-ea8c-4b9f-9386-9c9f327e0a19.mp4
+![демонстрация работы]https://user-images.githubusercontent.com/39415744/181803987-ba9f7cc2-ea8c-4b9f-9386-9c9f327e0a19.mp4
 
 
  
