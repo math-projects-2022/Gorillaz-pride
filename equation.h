@@ -20,7 +20,7 @@ double F7(double);
 
 
 ////////////////////////////////
-// Îáúÿâëÿåì êëàññ óðàâíåíèé //	
+// Объявляем класс уравнений //	
 //////////////////////////////
 
 class equation {
@@ -34,7 +34,7 @@ private:
 	int function;
 	double derivative2 = 0;
 
-	/* Çàäàåì ìàññèâ óêàçàòåëåé íà ôóíêöèè */
+	/* Задаем массив указателей на функции */
 
 	double (*func_list[FUNCTIONS])(double) = {
 	  F0,
@@ -71,5 +71,6 @@ public:
 	void SimpsonIntegral();
 	
 };
+
 
 
