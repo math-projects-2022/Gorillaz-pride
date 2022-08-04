@@ -4,19 +4,19 @@
 
 
 
-/*Пространства имен для работы с формой*/
+
 using namespace System;
 using namespace System::Windows::Forms;
 
-/* Функция входа main() */
+
 [STAThreadAttribute]
 void main(array<String^>^ args) {
 
-	Application::EnableVisualStyles(); // Задаем параметры отрисовки приложения
-	Application::SetCompatibleTextRenderingDefault(false); // Задаем параметры отрисовки приложения
+	Application::EnableVisualStyles(); // Г‡Г Г¤Г ГҐГ¬ ГЇГ Г°Г Г¬ГҐГІГ°Г» Г®ГІГ°ГЁГ±Г®ГўГЄГЁ ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї
+	Application::SetCompatibleTextRenderingDefault(false); // Г‡Г Г¤Г ГҐГ¬ ГЇГ Г°Г Г¬ГҐГІГ°Г» Г®ГІГ°ГЁГ±Г®ГўГЄГЁ ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї
 
 
 	integraloop::Main form;
-	Application::Run(% form);  // Запускаем главную форму
+	Application::Run(% form);  // Г‡Г ГЇГіГ±ГЄГ ГҐГ¬ ГЈГ«Г ГўГ­ГіГѕ ГґГ®Г°Г¬Гі
 
 }
