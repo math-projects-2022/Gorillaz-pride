@@ -12,11 +12,11 @@ using namespace System::Windows::Forms;
 [STAThreadAttribute]
 void main(array<String^>^ args) {
 
-	Application::EnableVisualStyles(); // Çàäàåì ïàðàìåòðû îòðèñîâêè ïðèëîæåíèÿ
-	Application::SetCompatibleTextRenderingDefault(false); // Çàäàåì ïàðàìåòðû îòðèñîâêè ïðèëîæåíèÿ
+	Application::EnableVisualStyles(); 
+	Application::SetCompatibleTextRenderingDefault(false); 
 
 
 	integraloop::Main form;
-	Application::Run(% form);  // Çàïóñêàåì ãëàâíóþ ôîðìó
+	Application::Run(% form);  
 
 }
