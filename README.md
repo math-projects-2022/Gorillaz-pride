@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/39415744/181811897-327b1359-98f3-4a4b-
 
 # Выполнили
 
-   * [Конопченко Л.Б](https://github.com/leonrew) | Работа с кодом (C++ CLR) | Документация проекта
+   * [Конопченко Л.Б](https://github.com/sssuckmyblood) | Работа с кодом (C++ CLR) | Документация проекта
    * [Рау М.А](https://github.com/R3MSKy) | Документация проекта
   
 
